@@ -1,3 +1,4 @@
 #tirar algumas coisas do git
 .venv/
-pycache/.
+__pycache__/
+*.pyc
